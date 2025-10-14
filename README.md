@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="17913262667034037971" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/gojo-satoru-gojo-satoru-gif-17913262667034037971">Gojo Satoru GIF</a>from <a href="https://tenor.com/search/gojo+satoru-gifs">Gojo Satoru GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img height="300" width="600" src="assets/gojo.gif" />
+</div>
 
 ###
 
