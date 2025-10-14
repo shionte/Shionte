@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="[https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif](https://tenor.com/view/gojo-satoru-gojo-satoru-gif-17913262667034037971)" />
+  <img height="300" width="600" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif](https://tenor.com/view/gojo-satoru-gojo-satoru-gif-17913262667034037971" />
 </div>
 
 ###
