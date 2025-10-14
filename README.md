@@ -25,7 +25,7 @@ Shio — Aspiring Security Engineer & OSINT enthusiast. Passionate about penetra
 
 ---
 
-### 🧰 Skills & Tools
+### 📝 Programming Languages
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
@@ -34,9 +34,31 @@ Shio — Aspiring Security Engineer & OSINT enthusiast. Passionate about penetra
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" height="40" alt="bash logo" />
+  <img src="https://cdn.simpleicons.org/bash/4EAA25" height="40" alt="bash logo" />
+</div>
+
+---
+
+### 🛠 Tools & IDEs
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux logo" />
+</div>
+
+---
+
+### 🌐 Social Networks
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tiktok/000000" height="40" alt="TikTok logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Gmail logo" />
 </div>
 
 ---
@@ -44,15 +66,6 @@ Shio — Aspiring Security Engineer & OSINT enthusiast. Passionate about penetra
 ### 📂 Projects & Examples
 
 * 🔗 **GitHub:** [https://github.com/shionte](https://github.com/shionte) — main repo hub for tools, scripts, and writeups
-
----
-
-### 📫 Contact & Socials
-
-* GitHub: [github.com/shionte](https://github.com/shionte)
-* TikTok: [tiktok.com/@shioclub](https://tiktok.com/@shioclub)
-* Telegram: [t.me/tailsuser](https://t.me/tailsuser)
-* Gmail: <a href="mailto:shionte98@gmail.com">[shionte98@gmail.com](mailto:shionte98@gmail.com)</a>
 
 ---
 
