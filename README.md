@@ -8,6 +8,24 @@
 
 ###
 
+<h3 align="left">🌐 Socials</h3>
+
+<a href="t.me/TailsUser" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
+</a>
+<a href="t.me/ShioHome" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
+</a>
+<a href="https://tiktok.com/@shioclub" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="25" />
+</a>
+<a href="https://discord.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" />
+</a>
+****
+
+###
+
 <h3 align="left">👨‍💻 About Me</h3>
 
 I am a junior Python developer, OSINT & privacy enthusiast, and gaming fan. I explore system architecture, Linux (Arch Linux), and cybersecurity. I enjoy coding, experimenting with bots, and working on personal projects.
