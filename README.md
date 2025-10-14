@@ -1,33 +1,43 @@
 # Shio
 
-[![GitHub followers](https://img.shields.io/github/followers/shionte?label=Follow\&style=social)](https://github.com/shionte) [![TikTok](https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok)](https://tiktok.com/@shioclub) [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/tailsuser)
+<div align="center">
+  [![GitHub followers](https://img.shields.io/github/followers/shionte?label=Follow&style=social)](https://github.com/shionte)
+  [![TikTok](https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok)](https://tiktok.com/@shioclub)
+  [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/tailsuser)
+  [![Gmail](https://img.shields.io/badge/-shionte98%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shionte98@gmail.com)
+</div>
 
 ---
 
 ### 👋 Mini Bio
 
-Shio — Aspiring Security Engineer and OSINT enthusiast. Passionate about penetration testing, automation, and learning new hacking techniques. Dedicated Arch Linux user. *i use Arch, btw.*
+Shio — Aspiring Security Engineer & OSINT enthusiast. Passionate about penetration testing, automation, and learning new hacking techniques. Dedicated Arch Linux user. *i use Arch, btw.*
 
 ---
 
 ### 🎯 Quick Snapshot
 
-* 🛡️ **Focus:** OSINT, web application exploitation, system intrusion, penetration testing
-* 🧠 **Learning path:** Python (Junior — interpreter-focused) · C++ (learning) · Bash & Linux tooling
+* 🛡️ **Focus:** OSINT, web app exploitation, system intrusion, penetration testing
+* 🧠 **Learning:** Python (Junior), C++ (learning), Bash & Linux tooling
 * 🧾 **Databases:** SQL — basic (improving)
-* 🛠️ **Approach:** automation-first — scripts and workflows to speed recon and make findings reproducible
-* 🔒 **Privacy & OpSec:** experience with anonymity tooling and reconnaissance hygiene
+* 🛠️ **Approach:** Automation-first — scripts & workflows for faster recon & reproducible results
+* 🔒 **Privacy & OpSec:** Anonymity tools & recon hygiene
 
 ---
 
 ### 🧰 Skills & Tools
 
-* **Languages:** Python (junior), C++ (learning), Bash
-* **Recon & OSINT:** passive/active reconnaissance, footprinting, scraping, data correlation
-* **Web security:** vulnerability discovery, exploitation concepts (XSS, SQLi awareness), proxying with Burp/mitm tools
-* **Platforms & environments:** Linux terminal, Arch-focused toolchain
-* **Containers & infra:** basic familiarity with Docker concepts (no orchestration experience yet)
-* **Other:** documentation, reproducible notes, small tools for automation
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo" />
+</div>
 
 ---
 
@@ -37,25 +47,12 @@ Shio — Aspiring Security Engineer and OSINT enthusiast. Passionate about penet
 
 ---
 
-### 📈 Languages & Technologies
-
-* **Programming Languages:**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat\&logo=gnu-bash\&logoColor=white)
-
-* **Social Media:**
-  ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat\&logo=telegram\&logoColor=white) ![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat\&logo=tiktok\&logoColor=white) ![![Gmail](https://img.shields.io/badge/-shionte98%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shionte98@gmail.com)
-
-
-* **Tools & IDEs:**
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-
----
-
 ### 📫 Contact & Socials
 
 * GitHub: [github.com/shionte](https://github.com/shionte)
 * TikTok: [tiktok.com/@shioclub](https://tiktok.com/@shioclub)
 * Telegram: [t.me/tailsuser](https://t.me/tailsuser)
+* Gmail: <a href="mailto:shionte98@gmail.com">[shionte98@gmail.com](mailto:shionte98@gmail.com)</a>
 
 ---
 
