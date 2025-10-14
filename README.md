@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://tenor.com/ru/view/gojo-satoru-gojo-satoru-gif-17913262667034037971" />
+  <img height="300" width="600" src="https://gamerant.com/jujutsu-kaisen-gojos-awakening/" />
 </div>
 
 ###
