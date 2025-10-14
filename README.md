@@ -13,11 +13,11 @@
 <a href="t.me/TailsUser" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
 </a>
-<a href="t.me/ShioHome" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
-</a>
 <a href="https://tiktok.com/@shioclub" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="25" />
+</a>
+<a href="t.me/ShioHome" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
 </a>
 <!-- <a href="https://discord.com/1425100026022985788" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" />
