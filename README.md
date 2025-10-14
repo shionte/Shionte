@@ -1,60 +1,91 @@
-# Shio
+<div align="center">
+  <img height="300" width="600" src="https://media.tenor.com/fQ7apbR1s7kAAAAd/gojo-satoru-gojo.gif"  />
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/shionte?label=Follow\&style=social)](https://github.com/shionte)
+###
 
----
+<h1 align="center">Привет👋 Меня зовут Shio!</h1>
 
-### 👋 Mini Bio
+###
 
-Shio — Beginner Security Engineer & OSINT enthusiast. Passionate about learning penetration testing, automation, and hacking techniques. Dedicated Arch Linux user. *i use Arch, btw.*
+<div align="center">
+  <a href="t.me/TailsUser" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="t.me/ShioHome" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram+канал&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram channel logo"  />
+  </a>
+  <a href="https://tiktok.com/@shioclub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
----
+###
 
-### 🎯 Goals
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shio.Shio&"  />
+</div>
 
-* Learn Python & C++ for security tooling
-* Master web application exploitation techniques
-* Gain hands-on experience in OSINT and recon
-* Improve Linux & Bash scripting skills
-* Build reproducible automation workflows
+###
 
----
+<h3 align="left">👨‍💻 Обо мне</h3>
 
-### 📝 Programming Languages
+<p align="left">
+Я начинающий программист и любитель OSINT & анонимности. В свободное время люблю погонять в игры и прокачивать навыки Python. Люблю разбираться в системах и архитектуре Linux, особенно Arch Linux. Немного шарю в SQL и C++ (interperer), но Python – мой основной инструмент. <br><br>
+- 🔭 Участвую в изучении OSINT и анонимности.<br>
+- 🎮 Люблю игры и достиг ачивок вроде убийства Эндер-дракона в Minecraft.<br>
+- 💻 Хороший пользователь Arch Linux.<br>
+- ⚡ Стремлюсь стать полноценным Python-разработчиком.
+</p>
 
-* Python (Junior)
-* C++ (Learning)
-* SQL (Basic)
-* Bash (Comfortable)
+###
 
----
+<h3 align="left">📕 Мои статьи / проекты</h3>
 
-### 🛠 Tools & IDEs
+- [GitHub профили и проекты](https://github.com/Shio) 
 
-* VS Code
-* Git
-* Linux
+###
 
----
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-### 🌐 Social Networks
+###
 
-* Telegram: [t.me/tailsuser](https://t.me/tailsuser)
-* TikTok: [tiktok.com/@shioclub](https://tiktok.com/@shioclub)
-* Gmail: [shionte98@gmail.com](mailto:shionte98@gmail.com)
+<h3 align="left">🛠 Технологии:</h3>
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
-### 📂 Projects & Examples
+###
 
-* 🔗 **GitHub:** [https://github.com/shionte](https://github.com/shionte) — main repo hub for tools, scripts, and writeups
+<h3 align="left">🏆 Ачивки:</h3>
 
----
+- Убийство Эндер-дракона (Minecraft)  
+- Создал своего первого бота на Python  
+- Настроил Arch Linux под свои нужды  
 
-### ⚡ Workflow Snippet
+###
 
-> I build small, repeatable scripts to automate recon and data correlation — fast & dirty proof-of-concepts first, then clean up the useful bits into documented tools.
+<h3 align="left">🔥 Моя статистика :</h3>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-*Made for Shio — beginner-friendly, practical, and a bit shady.*
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
