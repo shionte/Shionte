@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://gamerant.com/jujutsu-kaisen-gojos-awakening/" />
+  <img height="300" width="600" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F10%2Fgojo.png&f=1&nofb=1&ipt=4788c1941b966c4875510a927aa2c4b92047f2b75aa52c330a95dacfedfd8db1" />
 </div>
 
 ###
