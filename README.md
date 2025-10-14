@@ -2,39 +2,36 @@
 
 <div align="center">
   [![GitHub followers](https://img.shields.io/github/followers/shionte?label=Follow&style=social)](https://github.com/shionte)
-  [![TikTok](https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok)](https://tiktok.com/@shioclub)
-  [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/tailsuser)
-  [![Gmail](https://img.shields.io/badge/-shionte98%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shionte98@gmail.com)
 </div>
 
 ---
 
 ### 👋 Mini Bio
 
-Shio — Aspiring Security Engineer & OSINT enthusiast. Passionate about penetration testing, automation, and learning new hacking techniques. Dedicated Arch Linux user. *i use Arch, btw.*
+Shio — Beginner Security Engineer & OSINT enthusiast. Passionate about learning penetration testing, automation, and hacking techniques. Dedicated Arch Linux user. *i use Arch, btw.*
 
 ---
 
-### 🎯 Quick Snapshot
+### 🎯 Goals
 
-* 🛡️ **Focus:** OSINT, web app exploitation, system intrusion, penetration testing
-* 🧠 **Learning:** Python (Junior), C++ (learning), Bash & Linux tooling
-* 🧾 **Databases:** SQL — basic (improving)
-* 🛠️ **Approach:** Automation-first — scripts & workflows for faster recon & reproducible results
-* 🔒 **Privacy & OpSec:** Anonymity tools & recon hygiene
+* Learn Python & C++ for security tooling
+* Master web application exploitation techniques
+* Gain hands-on experience in OSINT and recon
+* Improve Linux & Bash scripting skills
+* Build reproducible automation workflows
 
 ---
 
 ### 📝 Programming Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cpp logo" />
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cpp logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sql logo" />
+  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sql logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/bash/4EAA25" height="40" alt="bash logo" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" height="40" alt="bash logo" /></a>
 </div>
 
 ---
@@ -42,11 +39,11 @@ Shio — Aspiring Security Engineer & OSINT enthusiast. Passionate about penetra
 ### 🛠 Tools & IDEs
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code logo" />
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux logo" />
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux logo" /></a>
 </div>
 
 ---
@@ -54,11 +51,11 @@ Shio — Aspiring Security Engineer & OSINT enthusiast. Passionate about penetra
 ### 🌐 Social Networks
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram logo" />
+  <a href="https://t.me/tailsuser" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tiktok/000000" height="40" alt="TikTok logo" />
+  <a href="https://tiktok.com/@shioclub" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/000000" height="40" alt="TikTok logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Gmail logo" />
+  <a href="mailto:shionte98@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Gmail logo" /></a>
 </div>
 
 ---
@@ -75,4 +72,4 @@ Shio — Aspiring Security Engineer & OSINT enthusiast. Passionate about penetra
 
 ---
 
-*Made for Shio — lean, practical, and a bit shady.*
+*Made for Shio — beginner-friendly, practical, and a bit shady.*
