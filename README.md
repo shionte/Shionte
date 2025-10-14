@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F10%2Fgojo.png&f=1&nofb=1&ipt=4788c1941b966c4875510a927aa2c4b92047f2b75aa52c330a95dacfedfd8db1" />
+  <img height="300" width="600" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FIU3VHBu6BaQAAAAd%2Fsatoru-gojo-toji-fushiguro.gif&f=1&nofb=1&ipt=df3b5739bdc17e8266245e570f86651dc8c3a51dcbf1ff0cc55d3645da34c6fc />
 </div>
 
 ###
