@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif](https://tenor.com/view/gojo-satoru-gojo-satoru-gif-17913262667034037971" />
+  <img height="300" width="600" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" />
 </div>
 
 ###
@@ -8,8 +8,50 @@
 
 ###
 
+<h3 align="left">💻 Languages</h3>
 <div align="center">
-  <!-- Socials -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Tools</h3>
+<div align="center">
+  <a href="https://www.archlinux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  </a>
+  <a href="https://www.vim.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🌐 Socials</h3>
+<div align="center">
   <a href="t.me/TailsUser" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
   </a>
@@ -44,48 +86,6 @@ I am a junior Python developer, OSINT & privacy enthusiast, and gaming fan. I ex
 
 - [GitHub Profile & Repositories](https://github.com/Shionte)  
 - [Rice for Hyprland](https://github.com/shionte/SBHyprland/)  
-
-###
-
-<h3 align="left">🛠 Technologies & Tools</h3>
-
-<div align="center">
-  <!-- Technologies -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
-  </a>
-  <a href="https://www.archlinux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  </a>
-</div>
-
-<div align="center">
-  <!-- Tools -->
-  <a href="https://www.vim.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  </a>
-</div>
 
 ###
 
