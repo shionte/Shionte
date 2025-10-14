@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello 👋, I'm Shionte!</h1>
+<h1 align="center">Hello 👋, I'm Shio!</h1>
 
 ###
 
