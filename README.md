@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://media.tenor.com/fQ7apbR1s7kAAAAd/gojo-satoru-gojo.gif"  />
+  <img height="300" width="600" src="assets/gojo.gif"  />
 </div>
 
 ###
@@ -34,25 +34,34 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I am a junior Python developer with an interest in OSINT, privacy, and cybersecurity. I am passionate about exploring system architecture, Linux (especially Arch Linux), and enhancing my programming skills. In my free time, I enjoy gaming, experimenting with code, and completing personal projects.<br><br>
-- 🔭 Currently studying OSINT & anonymity techniques.<br>
-- 🎮 Gaming enthusiast; achievements include defeating the Ender Dragon in Minecraft.<br>
-- 💻 Experienced Arch Linux user, comfortable in terminal environments.<br>
-- ⚡ Learning SQL and C++ (intermediate level).<br>
-- 🎯 Short-term goal: Build multiple Python bots and automate repetitive tasks.<br>
-- 🏆 Long-term goal: Become a full-stack developer and master cybersecurity tools.
+I am a junior Python developer, OSINT & privacy enthusiast, and gaming fan. I explore system architecture, Linux (Arch Linux), and cybersecurity. I enjoy coding, experimenting with bots, and working on personal projects.<br><br>
+- 🔭 Currently learning OSINT & anonymity techniques.  
+- 🎮 Gaming enthusiast; achievements include defeating the Ender Dragon in Minecraft.  
+- 💻 Experienced Arch Linux user; comfortable in terminal & scripting.  
+- ⚡ Skills in Python (junior), C++ (intermediate), SQL (basic).  
+- 🎯 Short-term goals: Build Python automation bots, expand OSINT skills.  
+- 🏅 Mid-term goals: Contribute to open-source projects, master Linux workflows.  
+- 🏆 Long-term goals: Become a full-stack developer & cybersecurity specialist.  
 </p>
 
 ###
 
 <h3 align="left">📂 Projects & Articles</h3>
 
-- [GitHub Profile & Repositories](https://github.com/Shionte)
+- [GitHub Profile & Repositories](https://github.com/Shionte)  
 - [Rice for Hyprland](https://github.com/shionte/SBHyprland/)  
 
 ###
 
 <h3 align="left">🛠 Technologies & Skills</h3>
+
+<div align="left">
+  <p>Python: ▓▓▓▓▓░░░░░ 50%</p>
+  <p>C++: ▓▓▓▓░░░░░░ 40%</p>
+  <p>SQL: ▓▓░░░░░░░░ 20%</p>
+  <p>Linux (Arch): ▓▓▓▓▓▓░░░ 60%</p>
+  <p>OSINT & Privacy Tools: ▓▓▓▓▓░░░ 50%</p>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -79,6 +88,9 @@ I am a junior Python developer with an interest in OSINT, privacy, and cybersecu
 
 <h3 align="left">🔥 GitHub Stats</h3>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shionte&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shionte&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
