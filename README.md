@@ -47,9 +47,8 @@ I am a junior Python developer with an interest in OSINT, privacy, and cybersecu
 
 <h3 align="left">📂 Projects & Articles</h3>
 
-- [GitHub Profile & Repositories](https://github.com/Shionte)  
-- [Telegram Bot for Filtering Chat](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)  
-- [Telegram Bot for Interview Prep](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)  
+- [GitHub Profile & Repositories](https://github.com/Shionte)
+- [Rice for Hyprland](https://github.com/shionte/SBHyprland/)  
 
 ###
 
