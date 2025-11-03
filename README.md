@@ -4,19 +4,19 @@
 
 ###
 
-<h1 align="center">Hello 👋, I'm Shio!</h1>
+<h1 align="center">Hello 👋, I'm FETA!</h1>
 
 ###
 
 <h3 align="left">🌐 Socials</h3>
 
-<a href="https://t.me/WebShio" target="_blank">
+<a href="https://t.me/WebFeta" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
 </a>
-<a href="https://tiktok.com/@shioclub" target="_blank">
+<a href="https://tiktok.com/@WebFeta" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="25" />
 </a>
-<a href="https://t.me/ShioHome" target="_blank">
+<a href="https://t.me/FetaHome" target="_blank">
   <img src="https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
 </a>
 
